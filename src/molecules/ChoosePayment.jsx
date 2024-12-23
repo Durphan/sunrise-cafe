@@ -21,8 +21,10 @@ const SubHeaderSection = styled.div`
 `;
 
 export default function ChoosePayment() {
+  // TODO: Implementar la lógica para manejar al accion de pagar
   function handleClick() {
-    console.log('payment');
+    // aquí iría la lógica
+    
   }
 
   return (
